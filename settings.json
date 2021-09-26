@@ -1,0 +1,19 @@
+{
+  "update_frequency": 10,
+  "price_limit": 5000,
+  "working_hours": [
+    8,
+    24
+  ],
+  "post_ids": [
+    91755767,
+    91755766,
+    91755766
+  ],
+  "device_id": "USB\\VID_13FE&PID_6300\\07169103C0830966",
+  "replace_frequency": 20,
+  "place": 5,
+  "cashback_waiting": 300,
+  "driver_version": "92.0.4515.197",
+  "path_to_program": "E:\\PycharmProject\\orders\\Farpost_keyword"
+}
